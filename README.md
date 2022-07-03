@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @matandanieli
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Expert software development at 'Sela' College. 
-- 💞️ I’m looking to collaborate on C#, Python, UWP, WPF
+- 🌱 I’m currently learning Expert software development at 'Sela' College and
+     first year student at the open university of israel in computer science.
+- 💞️ I’m looking for collaborate with C#, .NetFramework, UWP/WPF, Html, Js, Css, Java.
 - 📫 How to reach me -  'matandanieli123@gmail.com'.
-
-<!---
-matandanieli/matandanieli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
