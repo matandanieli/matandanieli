@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there I'm Matan Danieli :)
 
-<!--
-**matandanieli/matandanieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓   1st year Computer Science Student at The Open University.
 
-Here are some ideas to get you started:
+💻   Graduate with honors of the post-IDF "Combat Soldiers Hi-Tech Program" Full-stack course in Sela College.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔   Exploring new technologies and developing software.
+
+💬 Ask me about sports, chess.
+
+📫 How to reach me: mail: matandanieli123@gmail.com or linkdin - https://www.linkedin.com/in/matandanieli
+
+![My project](https://user-images.githubusercontent.com/97661343/189483023-c0735d6d-0124-4372-861e-f96c1840c1f0.png)
