@@ -1,12 +1,12 @@
 Hi there I'm Matan Danieli :)
 
-🎓   1st year Computer Science Student at The Open University.
+🎓   1st year Computer Science Student at The Open University of israel.
 
 💻   Graduate with honors of the post-IDF "Combat Soldiers Hi-Tech Program" Full-stack course in Sela College.
 
-🤔   Exploring new technologies and developing software.
+🤔   Exploring and eager to learn new technologies and developing software.
 
-💬 Ask me about sports, chess.
+💬 Ask me about sports, chess :)
 
 📫 How to reach me: mail: matandanieli123@gmail.com or linkdin - https://www.linkedin.com/in/matandanieli
 
