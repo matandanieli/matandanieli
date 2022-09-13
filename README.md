@@ -6,7 +6,7 @@ Hi there I'm Matan Danieli :)
 
 🤔   Exploring and eager to learn new technologies and developing software.
 
-💬 Ask me about sports, chess :)
+💬 Ask me about any sports and chess :)
 
 📫 How to reach me: mail: matandanieli123@gmail.com or linkdin - https://www.linkedin.com/in/matandanieli
 
