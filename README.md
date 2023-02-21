@@ -1,4 +1,5 @@
 Hi there I'm Matan Danieli :)
+Full-stack developer at CoApp, Israel.
 
 🎓   1st year Computer Science Student at The Open University of israel.
 
