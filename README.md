@@ -5,7 +5,7 @@ C# developer from Ramat Gan, Israel.
 
 💻   Graduate with honors of the post-IDF "Combat Soldiers Hi-Tech Program" Full-stack course in Sela College.
 
-👨🏻‍🏫  Nowdays Teaching teenagers computer sience and C#. coordinator of all the classes in the center district of israel at the Cyber Education Center.
+👨🏻‍🏫  Nowdays Teaching teenagers computer science and C#. coordinator of all the classes in the center district of israel at the Cyber Education Center.
 
 🤔   Exploring and eager to learn new technologies and developing software.
 
