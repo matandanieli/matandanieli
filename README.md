@@ -1,13 +1,15 @@
 Hi there I'm Matan Danieli :)
-Full-stack developer at CoApp, Israel.
+C# developer from Ramat Gan, Israel.
 
-🎓   1st year Computer Science Student at The Open University of israel.
+🎓   1st year Computer Science Student at The College Of Law And Business.
 
 💻   Graduate with honors of the post-IDF "Combat Soldiers Hi-Tech Program" Full-stack course in Sela College.
 
+👨🏻‍🏫  Nowdays Teaching teenagers computer sience and C#. coordinator of all the classes in the center district of israel at the Cyber Education Center.
+
 🤔   Exploring and eager to learn new technologies and developing software.
 
-💬 Ask me about any sports and chess :)
+💬 Ask me about any sports and Dj'ing/Music :)
 
 📫 How to reach me: mail: matandanieli123@gmail.com or linkdin - https://www.linkedin.com/in/matandanieli
 
