@@ -1,11 +1,11 @@
 Hi there I'm Matan Danieli :)
 C# developer from Ramat Gan, Israel.
 
-🎓   1st year Computer Science Student at The College Of Law And Business.
+🎓   2nd year Computer Science Student at The College Of Law And Business.
 
 💻   Graduate with honors of the post-IDF "Combat Soldiers Hi-Tech Program" Full-stack course in Sela College.
 
-👨🏻‍🏫  Nowdays Teaching teenagers computer science and C#. coordinator of all the classes in the center district of israel at the Cyber Education Center.
+👨🏻‍🏫  Used to Teach teenagers computer science and C#. coordinator of all the classes in the center district of israel at the Cyber Education Center.
 
 🤔   Exploring and eager to learn new technologies and developing software.
 
